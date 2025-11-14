@@ -2,4 +2,4 @@ streamlit
 pymupdf
 pillow
 numpy
-streamlit-drawable-canvas
+streamlit-image-coordinates
